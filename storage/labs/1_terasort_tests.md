@@ -1,3 +1,10 @@
+Linux account
+```
+[root@ip-172-31-35-195 ~]# id luqimin2005
+uid=500(luqimin2005) gid=500(luqimin2005) groups=500(luqimin2005)
+[root@ip-172-31-35-195 ~]# hadoop fs -ls /user | grep luqimin2005
+drwxr-xr-x   - luqimin2005 supergroup          0 2017-05-09 06:29 /user/luqimin2005
+```
 
 teragen
 ```
