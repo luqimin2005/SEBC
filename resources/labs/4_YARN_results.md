@@ -1,5 +1,5 @@
 
-Slowest
+Slowest:
 MAP:2 , REDUCE:2 , Container memory:512MB
 ```
 real	1m32.115s
@@ -11,7 +11,7 @@ user	0m8.591s
 sys	0m0.969s
 ```
 
-Fastest
+Fastest:
 MAP:8 , REDUCE:4 , Container memory:1024MB
 ```
 real	0m58.621s
@@ -25,7 +25,7 @@ sys	0m0.854s
 
 
 
-Output
+All Output:
 ```
 [hdfs@ip-172-31-35-195 ~]$ /tmp/yarntest.sh 
 Testing loop started on Tue May 9 09:42:11 UTC 2017
