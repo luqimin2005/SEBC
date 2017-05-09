@@ -3,7 +3,7 @@ Choose a partner in class
 xiaohu-liu
 ```
 
-Name a source directory after your GitHub handle
+Name a source directory after your GitHub handle ,
 Name a target directory after your partner's GitHub handle
 ```
 [root@ip-172-31-35-195 ~]# hadoop fs -ls /test
