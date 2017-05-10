@@ -1,4 +1,5 @@
-The statement should return an empty set because no authorizations are in place:
+Login as luqimin2005:
+(The statement should return an empty set because no authorizations are in place)
 ```
 [luqimin2005@ip-172-31-35-195 ~]$ beeline 
 Beeline version 1.1.0-cdh5.9.2 by Apache Hive
