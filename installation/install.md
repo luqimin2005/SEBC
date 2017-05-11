@@ -26,7 +26,7 @@
     * Updating Cloudera Manager server and agent software
     * Setting up HDFS NameNode for high availability
     * Integrating security & LDAP-based services
-    * Configuring & enabling HDFS Encryption
+    * Configuring & enabling HDFS Encryption 
 
 ---
 <div style="page-break-after: always;"></div>
