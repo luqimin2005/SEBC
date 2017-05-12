@@ -1,4 +1,4 @@
-Copy the repo you use 
+Copy the repo you use  
 ```
 # Enable to use MySQL 5.6
 [mysql56-community]
