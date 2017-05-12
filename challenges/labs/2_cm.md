@@ -5,3 +5,8 @@ CentOS-Base.repo       CentOS-Media.repo  cloudera-manager.repo  mysql-community
 CentOS-Debuginfo.repo  CentOS-Vault.repo  mysql-community.repo
 
 ```
+
+Use the scm_prepare_database.sh script to create the db.properties file
+```
+
+```
