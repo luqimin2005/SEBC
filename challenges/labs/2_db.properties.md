@@ -1,4 +1,4 @@
-***Start the Cloudera Manager server.
+***Start the Cloudera Manager server***
 
 Add the first line of the server's log
 ```
